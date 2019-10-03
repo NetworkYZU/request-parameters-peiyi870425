@@ -18,6 +18,11 @@
             name: <input type="text" name="username"></input>
             </br>
             password:<<input type="password" name="pass"></input>
+            從哪站網站:
+             </br>
+             <input typr="checkbox" name="source" value="web" />網站
+             <input typr="checkbox" name="source" value="news" />新聞
+             <input typr="checkbox" name="source" value="fb" />facebook
             <input type="submit"/>
         </form>
     </body>
